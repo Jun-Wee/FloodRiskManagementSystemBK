@@ -1,4 +1,8 @@
-[
+mongosh
+show dbs
+db.createCollection("User")
+db.user.insertMany(
+    [
   {
     "name": "Jun Wee Tan",
     "age": "20",
@@ -34,3 +38,4 @@
     "isSubscriber": 0
   }
 ]
+)
