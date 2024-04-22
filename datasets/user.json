@@ -1,0 +1,17 @@
+[{
+    "name":"Jun Wee Tan",
+    "age":"20",
+    "contact":{
+        "email":"101231636@student.swin.edu.au",
+        "phone":"101231636"
+    },
+    "address":{
+        "street": "123 Maple Street",
+        "city": "Melbourne",
+        "state": "Vic",
+        "zip": "12345"
+    },
+    "country":"Australia",
+    "isAdmin":1,
+    "isSubscriber":0
+}]
