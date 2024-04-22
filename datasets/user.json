@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Jun Wee Tan",
+    "age": "20",
+    "contact": {
+      "email": "101231636@student.swin.edu.au",
+      "phone": "101231636"
+    },
+    "address": {
+      "street": "123 Maple Street",
+      "city": "Melbourne",
+      "state": "Vic",
+      "zip": "12345"
+    },
+    "country": "Australia",
+    "isAdmin": 1,
+    "isSubscriber": 0
+  },
+  {
+    "name": "Arjun",
+    "age": "33",
+    "contact": {
+      "email": "arjunpatel@example.com",
+      "phone": "9876543210"
+    },
+    "address": {
+      "street": "No. 10, Gandhi Street",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600001"
+    },
+    "country": "India",
+    "isAdmin": 1,
+    "isSubscriber": 0
+  }
+]
